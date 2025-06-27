@@ -16,7 +16,7 @@ qemu-system-x86_64 -kernel build/kernel.bin
 
 
 
-##  **Structure Your Kernel Repo Like Linux**
+##  **Structure**
 ```
 nucleus-kernel/
 ├── arch/             # Architecture-specific code
