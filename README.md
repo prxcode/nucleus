@@ -34,3 +34,6 @@ sinusoid-kernel/
 ├── README.md         # Description of your kernel
 ```
 
+## Copyright (c) 2025 [PRXCODE]. All rights reserved.
+You may not redistribute, copy, modify, or sell this code or any part of it
+without explicit written permission from the author.
