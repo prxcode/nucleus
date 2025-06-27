@@ -17,11 +17,8 @@ qemu-system-x86_64 -kernel build/kernel.bin
 
 
 ##  **Structure Your Kernel Repo Like Linux**
-
-You don't need to copy the whole Linux kernel structure, but emulate its organization. A simplified version might look like:
-
 ```
-sinusoid-kernel/
+nucleus-kernel/
 ├── arch/             # Architecture-specific code
 ├── boot/             # Bootloader-related code
 ├── drivers/          # Device drivers
